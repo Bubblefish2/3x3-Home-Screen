@@ -1,2 +1,2 @@
-# 3x3-Homepage
+# 3x3 Home Screen
 Assignment
